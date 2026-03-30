@@ -10,12 +10,14 @@ tratamento de erros e notificação proativa, utilizando
 ferramentas modernas do ecossistema .NET.
 
 🛠️ Tecnologias Utilizadas
+
 .NET – Plataforma principal da aplicação
 Serilog – Para geração e gerenciamento de logs estruturados
 MailKit – Para envio de e-mails
 HttpClient – Para comunicação com serviços externos (ex: Google)
 
 ⚙️ Funcionalidades
+
 🔍 Monitoramento de comentários do Google
 📝 Registro de logs estruturados
 ⚠️ Tratamento de exceções e falhas
