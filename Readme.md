@@ -19,7 +19,11 @@ HttpClient – Para comunicação com serviços externos (ex: Google)
 ⚙️ Funcionalidades
 
 🔍 Monitoramento de comentários do Google
+
 📝 Registro de logs estruturados
+
 ⚠️ Tratamento de exceções e falhas
+
 📧 Envio automático de notificações por e-mail
+
 🌐 Comunicação com APIs externas
