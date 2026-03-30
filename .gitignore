@@ -1,0 +1,28 @@
+﻿# Arquivos de ambiente (variáveis sensíveis)
+.env
+.env.*
+.env.development
+
+# Caso use variações
+*.env
+
+# Logs
+logs/
+*.log
+
+# Build .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.cache
